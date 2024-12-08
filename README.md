@@ -108,9 +108,12 @@ WHERE
 
 ```
 SQL_RealWorld_Question/
-├── Question.png       # Problem statement image
-├── solution.sql       # SQL solution file
-├── README.md          # Documentation
+├── Question.png        # Problem statement image
+├── SQL_query_.sql      # SQL solution file
+├── README.md           # Documentation
+├── SQL_useCase.xlsx    # problem statement
+├── bookings.csv        # table for bookings
+├── payments.csv        # table for payments
 ```
 
 ---
